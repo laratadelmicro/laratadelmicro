@@ -19,7 +19,7 @@
 - ✨ **Current mood:** zZz zZz zZz
 
 <p align="center">
-<img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
+<img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
 </p>
 
 ### 🪲 Languages & Tools I Use
@@ -39,7 +39,9 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="Unity" alt="Unity" width="40" height="40"/>
 </p>
 
----
+<p align="center">
+<img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
+</p>
 
 ### 📜 Let's Keep in Touch
 <p align="left">
@@ -52,8 +54,11 @@
 </p>
 <sub align="center">(but only if we have to)</sub>
 
----
+<p align="center">
+<img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
+</p>
+
  <img src="https://github.com/laratadelmicro/priv/blob/main/cat-sniff.gif" alt="cat gif" width="150"/> 
- <sub align="center">🪴 May your code compile 🪴</sub>
+ <sub align="center">🪴 May your tests pass and your code compile 🪴</sub>
 
 
