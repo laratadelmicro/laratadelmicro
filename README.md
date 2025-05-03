@@ -1,24 +1,26 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=a9cf67&height=100&section=header&text=Sara%20García&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header image"/>
-  <img src="https://github.com/laratadelmicro/priv/blob/main/oia-uia.gif?raw=true" alt="cat gif" width="100"/>
+  <br>
   <img src="https://github.com/laratadelmicro/priv/blob/main/output-onlinegiftools.gif?raw=true" alt="cat gif" width="150"/>
-  <img src="https://github.com/laratadelmicro/priv/blob/main/oia-uia.gif?raw=true" alt="cat gif" width="100"/>
 
 </p>
 
 <p align="center">
   🌿🐌 24.05 ✦ 🇵🇹 🇪🇸 ✦ Porto ✦ FEUP - L.EIC 🐌🌿
 <br>
----
+ <img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
 
 ### 🌲 About Me
 
 - 🏡 From **Porto**, **Portugal**
 - 🎓 Studying **L.EIC @ FEUP** (2nd year)
-- 🌻 **Currently working on:** too many university projects
+- 🌻 **Currently working on:** way too many university projects
 - 🌾 **Interested in:** videogames, art, nature :)
 - ✨ **Current mood:** zZz zZz zZz
----
+
+<p align="center">
+<img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
+</p>
 
 ### 🪲 Languages & Tools I Use
 
@@ -40,7 +42,6 @@
 ---
 
 ### 📜 Let's Keep in Touch
-
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sage%20Green?style=for-the-badge&logo=linkedin&logoColor=white&color=88B04B" alt="LinkedIn"/>
@@ -49,7 +50,10 @@
     <img src="https://img.shields.io/badge/Email-Herbal%20Tea?style=for-the-badge&logo=gmail&logoColor=white&color=B5CDA3" alt="Email"/>
   </a>
 </p>
+<sub align="center">(but only if we have to)</sub>
 
 ---
  <img src="https://github.com/laratadelmicro/priv/blob/main/cat-sniff.gif" alt="cat gif" width="150"/> 
  <sub align="center">🪴 May your code compile 🪴</sub>
+
+
