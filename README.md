@@ -22,7 +22,7 @@
 <img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
 </p>
 
-### 🪲 Languages & Tools I Use
+### 🪲 Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
@@ -43,8 +43,14 @@
 <img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
 </p>
 
-### 📜 Let's Keep in Touch
-<p align="left">
+<p align="center">
+  How to reach me
+  <br>
+  <sub align="center">(please do not)</sub>
+</p>
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sage%20Green?style=for-the-badge&logo=linkedin&logoColor=white&color=88B04B" alt="LinkedIn"/>
   </a>
@@ -52,13 +58,16 @@
     <img src="https://img.shields.io/badge/Email-Herbal%20Tea?style=for-the-badge&logo=gmail&logoColor=white&color=B5CDA3" alt="Email"/>
   </a>
 </p>
-<sub align="center">(but only if we have to)</sub>
+
 
 <p align="center">
 <img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/><img src="https://github.com/laratadelmicro/priv/blob/main/Divider_9febac72e7%20(1)%20(1).png" alt="separator" width="100"/>
 </p>
 
- <img src="https://github.com/laratadelmicro/priv/blob/main/cat-sniff.gif" alt="cat gif" width="150"/> 
- <sub align="center">🪴 May your tests pass and your code compile 🪴</sub>
+<p align="center">
+  <img src="https://github.com/laratadelmicro/priv/blob/main/cat-sniff.gif" alt="cat gif" width="150"/> 
+  <br>
+ <sub align="center">🪴 May you pass all your tests, and all your tests pass🪴</sub>
+</p>
 
 
